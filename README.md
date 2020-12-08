@@ -1,4 +1,4 @@
-![alt text](src/main/resources/public/tanuki_anime.png)
+![alt text](src/main/resources/public/ska.png)
 
 # Tanuki Tech Project
 ## Reimplementation in Java using Spring Boot.
