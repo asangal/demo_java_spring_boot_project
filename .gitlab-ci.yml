@@ -87,7 +87,7 @@ include:
   - template: Security/SAST.gitlab-ci.yml
 
 # Override DAST job to exclude master branch
-dast:
-  except:
-    refs:
-      - master
+#dast:
+#  except:
+#    refs:
+#      - master
